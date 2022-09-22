@@ -4,14 +4,21 @@
     background-color: azure;
     margin: auto;
 }
+
 h1, h2 {
     font-weight: bold;
 }
+
 h4 {
     color: #00f;
 }
+
 #h3 {color: #00ff00;}
+
 .div3 {color: #ff0000;}
+
 .div1 li {color: #00f;}
+
 * {background-color: azure;}
+
 .div2 li+li {color: #00ff00;}
